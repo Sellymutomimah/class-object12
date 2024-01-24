@@ -1,2 +1,2 @@
-# class-object12
+# latihan 1
 tugas latihan class-objec
